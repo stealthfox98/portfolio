@@ -8,5 +8,6 @@
 ### Work experience
 **Analyst @ Deloitte**
 - Task 1
+
 **Junior Data Analyst @ IGNEA Servicios y Consultoria**
 - Task 1
