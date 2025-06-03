@@ -6,8 +6,6 @@
 - BI tools: Looker Studio, Tableau
 - Cloud services: AWS
 
-#### Technical skills: Python, SQL, Git, Looker Studio
-
 ### Education
 - B.S., Petroleum Engineering | National Autonomous University of Mexico (_Aug 2017 - Dec 2022_)
 
